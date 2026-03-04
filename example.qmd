@@ -7,4 +7,4 @@ library(usethis)
 ```
 
 # staged
-install.package("usethis")
+No passwords here :D 
