@@ -2,6 +2,9 @@
 ```{r}
 print("HELLO")
 getwd()
+install.packages("usethis")
+library(usethis)
 ```
 
 # staged
+install.package("usethis")
